@@ -1,0 +1,12 @@
+.pio
+.pioenvs
+.piolibdeps
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/
+src/Secrets.h
+_backup/
+test/
+*.DS_Store
+*/.DS_Store
